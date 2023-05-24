@@ -276,16 +276,20 @@ while True:
             elif pilSub == '5':
                 tampilPeminjam()
                 while True:
-                    hapusData=input("Ingin Hapus Data Ke Berapa?: ")
-                    if hapusData.isdigit():
-                        hapusData=int(hapusData)
-                        if hapusData>=1 and hapusData<=len(dataPeminjam):
-                            dataPeminjam.pop(hapusData-1)
-                            break
+                    if dataPeminjam:
+                        hapusData=input("Ingin Hapus Data Ke Berapa?: ")
+                        if hapusData.isdigit():
+                            hapusData=int(hapusData)
+                            if hapusData>=1 and hapusData<=len(dataPeminjam):
+                                dataPeminjam.pop(hapusData-1)
+                                break
+                            else:
+                                validasi()
                         else:
                             validasi()
                     else:
-                        validasi()
+                        validasi("Peminjam Aktif Kosong!")
+                        break
             #6
             elif pilSub == '6':
                 break
