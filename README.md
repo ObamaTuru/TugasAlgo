@@ -13,4 +13,4 @@ python TugasAlgo/Hilmi.py
 FlowChart:
 <br />
 <br />
-![Untitsled](https://github.com/ObamaTuru/TugasAlgo/assets/101854101/7715780d-4970-4283-9686-65137a332fd2)
+![TUD](https://github.com/ObamaTuru/TugasAlgo/assets/101854101/3734df24-ea90-4b9f-9a96-2d48b967c922)
