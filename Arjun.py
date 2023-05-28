@@ -1,10 +1,10 @@
 def tampil_mahasiswa(dataMahasiswa):
-    print(("=+"*25)+"\nData Mahasiswa\n"+("=+"*25))
+    print(("=="*25)+"\nData Mahasiswa\n"+("=="*25))
     for i in range(len(dataMahasiswa)):
-        print("Mahasiswa Ke-"+str(i+1))
+        print("Mahasiswa Ke-"+str(i+1),end=" | ")
         for y in dataMahasiswa[i]:
-            print(y,":",dataMahasiswa[i][y])
-        print("=+"*25) 
+            print(y,":",dataMahasiswa[i][y],end=" | ")
+        print() 
 
 def edit_mahasiswa(dataMahasiswa):
     try:
