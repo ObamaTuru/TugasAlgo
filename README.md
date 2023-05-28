@@ -38,7 +38,20 @@ tampilPeminjam()
 <br>
 tambahPeminjam()
 <br>
-![Untitled Diagram drawio](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/8f619618-7c79-4637-a682-8580020961ef)
+![Untitled Diagram drawio (2)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/2d253e84-4b3e-4b3b-b379-481565d8cb5a)
+<br>
+editPeminjam()
+<br>
+![Untitled Diagram drawio (1)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/fc1bf474-1da7-4970-a6d2-4bf66fc3bf14)
+<br>
+pengembalian()
+<br>
+![Untitled Diagram drawio (3)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/142958f0-7ad2-4ce1-b583-93cd32f90f35)
+<br>
+hapusPeminjam()
+<br>
+![Untitled Diagram drawio (4)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/14baf29a-c4ff-4a4f-96cb-dfed9e856826)
+
 
 
 
