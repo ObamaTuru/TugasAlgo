@@ -296,12 +296,12 @@ while True:
             else:
                 validasi()
     elif pilMain == '4':
-            print(("=+"*25)+"\nHistori Pengembalian Buku\n"+("=+"*25))
+            print(("=="*25)+"\nHistori Pengembalian Buku\n"+("=="*25))
             for i in range(len(dataPengembali)):
-                print("Pengembali Ke-"+str(i+1))
+                print("Pengembali Ke-"+str(i+1),end=" | ")
                 for y in dataPengembali[i]:
-                    print(y,":",dataPengembali[i][y])
-                print("=+"*25) 
+                    print(y,":",dataPengembali[i][y],end=" | ")
+                print() 
     elif pilMain == '5':
         break
     else:
