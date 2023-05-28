@@ -12,6 +12,7 @@ python TugasAlgo/Hilmi.py
 ```
 ## Main FlowChart:
 <br>
+<br>
 ![mainFC](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/33232255-296c-4527-a474-ad1ca49f20f5)
 <br>
 <br>
@@ -43,7 +44,6 @@ python TugasAlgo/Hilmi.py
 
 ![Blank diagram (10)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/25f3a27f-28f4-401f-b1c5-b81835f2cf1a)
 <br>
-
 <br>
 ## FlowChart Sub Menu Transaksi Peminjaman:
 <br>
