@@ -13,4 +13,5 @@ python TugasAlgo/Hilmi.py
 Main FlowChart:
 <br />
 <br />
-![Blank diagramm](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/91a30ea5-2c45-4d56-b384-300227ec89d0)
+![mainFC](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/33232255-296c-4527-a474-ad1ca49f20f5)
+
