@@ -36,10 +36,6 @@ tampilPeminjam()
 <br>
 ![Blank diagram (12)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/66aecc04-82b2-44cd-8aa2-d1a4f1cbc946)
 <br>
-tampilPeminjam()
-<br>
-![Untitled Diagram drawio](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/8f619618-7c79-4637-a682-8580020961ef)
-<br>
 tambahPeminjam()
 <br>
 ![Untitled Diagram drawio](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/8f619618-7c79-4637-a682-8580020961ef)
