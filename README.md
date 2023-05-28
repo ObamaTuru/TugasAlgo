@@ -2,7 +2,7 @@
 **Revisi Sebelumnya:**
 - Tampilan prompt dibuat kearah samping: ✅
 - Flowchart diperjelas: ✅
-</br>
+<br></br>
 **How To Run:**
 ```
 git clone https://github.com/ObamaTuru/TugasAlgo.git
