@@ -1,5 +1,5 @@
 # TugasAlgo
-** How To Run: **
+**How To Run:**
 ```
 git clone https://github.com/ObamaTuru/TugasAlgo.git
 cd TugasAlgo
