@@ -1,10 +1,10 @@
 def tampilBuku(dataBuku):
-    print(("=+"*25)+"\nData Buku\n"+("=+"*25))
+    print(("=="*25)+"\nData Buku\n"+("=="*25))
     for i in range(len(dataBuku)):
-        print("Buku Ke-"+str(i+1))
+        print("Buku Ke-"+str(i+1),end=" | ")
         for y in dataBuku[i]:
-            print(y,":",dataBuku[i][y])
-        print("=+"*25) 
+            print(y,":",dataBuku[i][y],end=" | ")
+        print() 
         
 def tambah_mahasiswa(dataMahasiswa):
     while True:
