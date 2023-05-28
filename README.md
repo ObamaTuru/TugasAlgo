@@ -10,7 +10,7 @@ OR:
 git clone https://github.com/ObamaTuru/TugasAlgo.git
 python TugasAlgo/Hilmi.py
 ```
-FlowChart:
+Main FlowChart:
 <br />
 <br />
-![TUD](https://github.com/ObamaTuru/TugasAlgo/assets/101854101/3734df24-ea90-4b9f-9a96-2d48b967c922)
+![Blank diagramm](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/91a30ea5-2c45-4d56-b384-300227ec89d0)
