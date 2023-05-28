@@ -1,5 +1,5 @@
-# Tugas Algoritma
-# Revisi Sebelumnya:
+## Tugas Algoritma
+**Revisi Sebelumnya:**
 - Tampilan prompt dibuat kearah samping: ✅
 - Flowchart diperjelas: ✅
 **How To Run:**
