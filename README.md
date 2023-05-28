@@ -1,8 +1,4 @@
 ## Tugas Algoritma
-**Revisi Sebelumnya:**
-- Tampilan prompt dibuat kearah samping: ✅
-- Flowchart diperjelas: ✅<br>
-<br>
 **How To Run:**
 ```
 git clone https://github.com/ObamaTuru/TugasAlgo.git
@@ -14,6 +10,10 @@ python Hilmi.py
 git clone https://github.com/ObamaTuru/TugasAlgo.git
 python TugasAlgo/Hilmi.py
 ```
+**Revisi Sebelumnya:**
+- Tampilan prompt dibuat kearah samping: ✅
+- Flowchart diperjelas: ✅
+
 ## Main FlowChart:
 ![mainFC](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/33232255-296c-4527-a474-ad1ca49f20f5)<br>
 ## FlowChart Sub Menu Mahasiswa:
