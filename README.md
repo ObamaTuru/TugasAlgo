@@ -1,4 +1,4 @@
-### Tugas Algoritma 
+# Tugas Algoritma 
 **How To Run:**
 ```
 git clone https://github.com/ObamaTuru/TugasAlgo.git
@@ -10,12 +10,12 @@ python Hilmi.py
 git clone https://github.com/ObamaTuru/TugasAlgo.git
 python TugasAlgo/Hilmi.py
 ```
-## Main FlowChart:
+# Main FlowChart:
 <br>
 ![mainFC](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/33232255-296c-4527-a474-ad1ca49f20f5)
 <br>
 <br>
-## FlowChart Sub Menu Mahasiswa:
+# FlowChart Sub Menu Mahasiswa:
 <br>
 tampil_mahasiswa()
 <br>
@@ -30,7 +30,7 @@ tambah_mahasiswa():
 ![6049ab9a-fed9-44c2-ba4b-eb75b1790a43](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/c03e4aea-0033-40e6-9ce1-78a8b5927ec9)
 <br>
 <br>
-## FlowChart Sub Menu Buku:
+# FlowChart Sub Menu Buku:
 <br>
 tampilBuku()
 <br>
