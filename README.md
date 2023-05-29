@@ -15,7 +15,7 @@ python TugasAlgo/Hilmi.py
 - Flowchart diperjelas: ✅
 
 ## Main FlowChart:
-![mainFC](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/33232255-296c-4527-a474-ad1ca49f20f5)<br>
+![copy](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/ec300674-eaa8-407b-b6d6-b95c8d9c124e)<br>
 ## FlowChart Sub Menu Mahasiswa:
 - **tampil_mahasiswa()**<br>
 ![Blank diagram (11)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/9d4a3fca-6c86-4243-a9a0-9068389b0d49)<br>
