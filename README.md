@@ -38,5 +38,5 @@ python TugasAlgo/Hilmi.py
 - **pengembalian()**<br>
 ![Untitled Diagram drawio (3)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/142958f0-7ad2-4ce1-b583-93cd32f90f35)<br>
 - **hapusPeminjam()**<br>
-![Untitled Diagram drawio (4)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/14baf29a-c4ff-4a4f-96cb-dfed9e856826)<br>
+![241565162-14baf29a-c4ff-4a4f-96cb-dfed9e856826 (1)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/aa9d22a7-a340-424c-9e6c-515ee5e43f2c)<br>
 
