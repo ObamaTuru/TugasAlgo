@@ -28,6 +28,8 @@ python TugasAlgo/Hilmi.py
 ## FlowChart Sub Menu Buku:
 - **tampilBuku()**<br>
 ![Blank diagram (10)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/25f3a27f-28f4-401f-b1c5-b81835f2cf1a)<br>
+- **tambah_buku()**<br>
+![Untitled Diagram drawio (7)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/a96afe8b-77ba-4a94-b014-32e1d57ab1bc)<br>
 - **ubah_buku()**<br>
 ![ubahbuku](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/a0fa39ca-d56b-4dcf-bf28-d393319b3666)<br>
 ## FlowChart Sub Menu Transaksi Peminjaman:
