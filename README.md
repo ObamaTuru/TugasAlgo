@@ -32,7 +32,7 @@ python TugasAlgo/Hilmi.py
 - **tampilPeminjam()**<br>
 ![Blank diagram (12)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/66aecc04-82b2-44cd-8aa2-d1a4f1cbc946)<br>
 - **tambahPeminjam()**<br>
-![Untitled Diagram drawio (2)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/2d253e84-4b3e-4b3b-b379-481565d8cb5a)<br>
+![241565170-2d253e84-4b3e-4b3b-b379-481565d8cb5a](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/8d6ab3f3-bb9e-454f-a4b6-f2908933d57f)<br>
 - **editPeminjam()**<br>
 ![Untitled Diagram drawio (1)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/fc1bf474-1da7-4970-a6d2-4bf66fc3bf14)<br>
 - **pengembalian()**<br>
