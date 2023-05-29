@@ -20,7 +20,7 @@ python TugasAlgo/Hilmi.py
 - **tampil_mahasiswa()**<br>
 ![Blank diagram (11)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/9d4a3fca-6c86-4243-a9a0-9068389b0d49)<br>
 - **hapus_mahasiswa():**<br>
-![0aeaff10-74d7-40e7-8d13-148cdacf4c2a](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/0431b955-bd3b-428c-b121-13441c13e851)<br>
+![Untitled Diagram drawio (5)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/c519e328-5b43-4c45-a73c-0ebeac6ced0b)<br>
 - **tambah_mahasiswa():**<br>
 ![6049ab9a-fed9-44c2-ba4b-eb75b1790a43](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/c03e4aea-0033-40e6-9ce1-78a8b5927ec9)<br>
 ## FlowChart Sub Menu Buku:
