@@ -19,10 +19,12 @@ python TugasAlgo/Hilmi.py
 ## FlowChart Sub Menu Mahasiswa:
 - **tampil_mahasiswa()**<br>
 ![Blank diagram (11)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/9d4a3fca-6c86-4243-a9a0-9068389b0d49)<br>
-- **hapus_mahasiswa():**<br>
-![Untitled Diagram drawio (5)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/c519e328-5b43-4c45-a73c-0ebeac6ced0b)<br>
 - **tambah_mahasiswa():**<br>
 ![Untitled Diagram drawio (6)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/115fd427-a55a-4abc-84bb-12551a4af1af)<br>
+- **edit_mahasiswa():**<br>
+![edit mahasiswa , drawio (1)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/475bef48-d6a5-41d1-adef-ce95527d2d19)<br>
+- **hapus_mahasiswa():**<br>
+![Untitled Diagram drawio (5)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/c519e328-5b43-4c45-a73c-0ebeac6ced0b)<br>
 ## FlowChart Sub Menu Buku:
 - **tampilBuku()**<br>
 ![Blank diagram (10)](https://github.com/ObamaTuru/TugasAlgo/assets/128023299/25f3a27f-28f4-401f-b1c5-b81835f2cf1a)<br>
